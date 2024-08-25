@@ -1,0 +1,36 @@
+Dataset para Classificação
+
+Descrição: Os datasets utilizados para a tarefa de classificação de melanoma estão organizados em duas categorias principais: o dataset original e o dataset preprocessado. Cada um deles é dividido em pastas para treino e teste, com subpastas para as classes benigno e maligno.
+
+1. Dataset Original
+
+Descrição: Dataset original com imagens brutas de lesões para treino e teste. Cada conjunto de dados contém pastas separadas para casos benignos e malignos.
+
+Estrutura de Diretórios:
+
+Treino
+
+Benigno: Contém imagens de casos benignos para treinamento.
+Maligno: Contém imagens de casos malignos para treinamento.
+Teste
+
+Benigno: Contém imagens de casos benignos para teste.
+Maligno: Contém imagens de casos malignos para teste.
+Link para Download: https://drive.google.com/drive/folders/1k7cCteV9rhby5_5W58HUc0VnfmUtTD8I?usp=sharing
+
+2. Dataset Preprocessado
+
+Descrição: Dataset preprocessado contendo imagens após aplicação de técnicas de aumento de dados e outras operações de pré-processamento. A estrutura de diretórios é semelhante à do dataset original.
+
+Estrutura de Diretórios:
+
+Treino
+
+Benigno: Contém imagens de casos benignos preprocessados para treinamento.
+Maligno: Contém imagens de casos malignos preprocessados para treinamento.
+Teste
+
+Benigno: Contém imagens de casos benignos preprocessados para teste.
+Maligno: Contém imagens de casos malignos preprocessados para teste.
+Link para Download: https://drive.google.com/drive/folders/1k7cCteV9rhby5_5W58HUc0VnfmUtTD8I?usp=sharing
+
